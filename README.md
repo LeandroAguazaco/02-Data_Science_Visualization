@@ -1,4 +1,4 @@
-# 02-Data_Science_Visualization
+# Data ScienceVisualization
 
 <div align="left">
 
